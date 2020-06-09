@@ -1,6 +1,6 @@
 # weibo
 
-## 《HTML5移动Web+Vue.js应用开发实战》之--微博Web App实战案例配套源码
+### [《HTML5移动Web+Vue.js应用开发实战》](https://detail.tmall.com/item.htm?spm=a230r.1.14.1.52fe5594vGYpMr&id=620482199343&ns=1&abbucket=17)之--微博Web App实战案例配套源码
 
 ## 安装依赖
 ```
