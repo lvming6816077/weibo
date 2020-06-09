@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["setting"],{7424:function(t,e,a){"use strict";a.r(e);var n=function(){var t=this,e=t.$createElement,a=t._self._c||e;return a("div",{staticClass:"container"},[a("headerbar",{attrs:{title:"设置"}}),t._v(" 我的 "),a("tabbar",{attrs:{currentKey:"setting"}})],1)},r=[],s=a("73b0"),c=a("1c80"),i={name:"index",components:{headerbar:c["a"],tabbar:s["a"]}},b=i,o=a("2877"),l=Object(o["a"])(b,n,r,!1,null,"440e69ce",null);e["default"]=l.exports}}]);
+//# sourceMappingURL=setting.a2db35fa.js.map
